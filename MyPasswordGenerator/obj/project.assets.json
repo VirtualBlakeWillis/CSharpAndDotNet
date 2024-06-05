@@ -38,11 +38,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/virtualblakewillis/Repositories/C#and.NET/MyPasswordGenerator/MyPasswordGenerator.csproj",
+      "projectUniqueName": "/Users/virtualblakewillis/Repositories/CSharpAndDotNet/MyPasswordGenerator/MyPasswordGenerator.csproj",
       "projectName": "MyPasswordGenerator",
-      "projectPath": "/Users/virtualblakewillis/Repositories/C#and.NET/MyPasswordGenerator/MyPasswordGenerator.csproj",
+      "projectPath": "/Users/virtualblakewillis/Repositories/CSharpAndDotNet/MyPasswordGenerator/MyPasswordGenerator.csproj",
       "packagesPath": "/Users/virtualblakewillis/.nuget/packages/",
-      "outputPath": "/Users/virtualblakewillis/Repositories/C#and.NET/MyPasswordGenerator/obj/",
+      "outputPath": "/Users/virtualblakewillis/Repositories/CSharpAndDotNet/MyPasswordGenerator/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/virtualblakewillis/.nuget/NuGet/NuGet.Config"

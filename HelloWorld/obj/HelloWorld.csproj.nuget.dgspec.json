@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/virtualblakewillis/Repositories/C#and.NET/HelloWorld/HelloWorld.csproj": {}
+    "/Users/virtualblakewillis/Repositories/CSharpAndDotNet/HelloWorld/HelloWorld.csproj": {}
   },
   "projects": {
-    "/Users/virtualblakewillis/Repositories/C#and.NET/HelloWorld/HelloWorld.csproj": {
+    "/Users/virtualblakewillis/Repositories/CSharpAndDotNet/HelloWorld/HelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/virtualblakewillis/Repositories/C#and.NET/HelloWorld/HelloWorld.csproj",
+        "projectUniqueName": "/Users/virtualblakewillis/Repositories/CSharpAndDotNet/HelloWorld/HelloWorld.csproj",
         "projectName": "HelloWorld",
-        "projectPath": "/Users/virtualblakewillis/Repositories/C#and.NET/HelloWorld/HelloWorld.csproj",
+        "projectPath": "/Users/virtualblakewillis/Repositories/CSharpAndDotNet/HelloWorld/HelloWorld.csproj",
         "packagesPath": "/Users/virtualblakewillis/.nuget/packages/",
-        "outputPath": "/Users/virtualblakewillis/Repositories/C#and.NET/HelloWorld/obj/",
+        "outputPath": "/Users/virtualblakewillis/Repositories/CSharpAndDotNet/HelloWorld/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/virtualblakewillis/.nuget/NuGet/NuGet.Config"

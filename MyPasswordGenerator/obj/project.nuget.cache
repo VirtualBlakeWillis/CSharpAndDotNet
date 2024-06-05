@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tajRvFZJXGqPnVvivPDQTFmEgL9xp9AoS/Rqxbra+eJu1AEvCIC1qgM8oxXfkfKD0Ls8rp+ZH8v3c5Jp/qZX0g==",
+  "dgSpecHash": "oJIA+w+iD1XLgf4iheOVC+modzIXpqTcowHsVISdHxbByWBrdtVHuTPyHcUPFIjCXZPE+n1FPGZrkUe2mQf3+A==",
   "success": true,
-  "projectFilePath": "/Users/virtualblakewillis/Repositories/C#and.NET/MyPasswordGenerator/MyPasswordGenerator.csproj",
+  "projectFilePath": "/Users/virtualblakewillis/Repositories/CSharpAndDotNet/MyPasswordGenerator/MyPasswordGenerator.csproj",
   "expectedPackageFiles": [
     "/Users/virtualblakewillis/.nuget/packages/passwordgenerator/2.1.0/passwordgenerator.2.1.0.nupkg.sha512"
   ],

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HB3ACklbW/vO/2/JLdddqNvWCC2vuELOBZvsbxQYFHGtPNdNyyL5KkHYNRDgwOCi9uXcuvZXsVwOjo8pkjqAxA==",
+  "dgSpecHash": "owjn8WYWTqUMhkC5vXXpMHdSQQot0i0WLT4umC83OcW34+YlfEh38Oo5/bew/NMfyfpsRKWbIaalOrs4mjT/TQ==",
   "success": true,
-  "projectFilePath": "/Users/virtualblakewillis/Repositories/C#and.NET/HelloWorld/HelloWorld.csproj",
+  "projectFilePath": "/Users/virtualblakewillis/Repositories/CSharpAndDotNet/HelloWorld/HelloWorld.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
